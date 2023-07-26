@@ -13,3 +13,6 @@ mm_icon_focus_hd=pkg:/images/icon.png
 splash_screen_hd=pkg:/images/splash.jpg
 
 custom_field=greet
+
+##Resolution
+ui_resolutions=fhd

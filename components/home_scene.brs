@@ -1,0 +1,8 @@
+function init()
+	? "Initializing home_scene"
+	m.top.backgroundURI = ""
+	m.top.backgroundColor = "0xFFFFFFFF"
+
+	m.center_square = m.top.findNode("center_square")
+	m.center_square.setFocus(true)
+end function

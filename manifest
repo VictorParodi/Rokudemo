@@ -1,1 +1,15 @@
-# This file must have something
+##Channel details
+title=Roku demo
+major_version=1
+minor_version=0
+build_version=0
+
+##Channel Icon
+####Image size for mm_icon_focus_hd: 290x218px
+mm_icon_focus_hd=pkg:/images/icon.png
+
+###Splash Screen + Loading Screen Artwork
+####Image size for splash_screen_hd: 1280x720px
+splash_screen_hd=pkg:/images/splash.jpg
+
+custom_field=greet

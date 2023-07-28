@@ -9,4 +9,6 @@ sub onCategorySelected(obj)
 	? "Data: ", obj.getData()
 	? "Item: ", m.category_list.checkedItem
 	? "Node: ", m.category_list.content.getChild(obj.getData())
+	item = m.category_list.content.getChild(obj.getData())
+	? "Feed: ", item.feed_url
 end sub

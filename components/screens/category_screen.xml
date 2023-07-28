@@ -13,9 +13,9 @@
 			itemSize="[400,48]"
 		>
 			<ContentNode id="categories" role="content">
-				<ContentNode title="DRAMA" />
-				<ContentNode title="COMEDY" />
-				<ContentNode title="HORROR" />
+				<category_node title="DRAMA !" feed_url="https://jsonplaceholder.typicode.com/users" />
+				<category_node title="COMEDY !" feed_url="https://jsonplaceholder.typicode.com/posts" />
+				<category_node title="HORROR !" feed_url="https://jsonplaceholder.typicode.com/albums" />
 			</ContentNode>
 		</RadioButtonList>
 	</children>
